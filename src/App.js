@@ -8,7 +8,7 @@ function App() {
   // console.log(state);
   return (
     <div className="App">
-      <h1>salom</h1>
+      <h1>salommmm</h1>
       {/* <h2>{state.num}</h2> */}
       {/* <button onClick={() => dispatch({ type: "ADD_NUM" })}>+</button> */}
       <Result />
